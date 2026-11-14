@@ -12,7 +12,7 @@ https://smart-safety-checker.onrender.com
 
 ### 👩‍💻 Made By
 **Anchal Vishwakarma**
-BCA Final Year Project - 2026
+BTech 2nd Year Project - 2026
 
 ### 🛠️ Tech Stack
 Python, Flask, HTML, CSS
